@@ -2,10 +2,17 @@
 <title>E.Y.E Ceramics</title>
 <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<header> 
 	<h1>Raku & Low Fire Ceramics</h1>
 </header>
 <img src="Blue.jpg">
+=======
+<header>
+	<h1>Raku & Low Fire Ceramics</h1>
+</header>
+<img src="Blue.jpg">	
+>>>>>>> parent of ea03f0c... pic
 =======
 <header>
 	<h1>Raku & Low Fire Ceramics</h1>
