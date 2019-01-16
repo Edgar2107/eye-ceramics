@@ -1,8 +1,7 @@
 <html>
 <title>E.Y.E Ceramics</title>
 <body>
-	<header> 
-	<h1>Raku & Low Fire Ceramics</h1>
+	<header> Raku & Low Fire Ceramics
 	</header>
 
 	<button>ABOUT ME</button>
