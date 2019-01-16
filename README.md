@@ -3,6 +3,7 @@
 <body>
 	<header> 
 	<h1>Raku & Low Fire Ceramics</h1>
+	
 	<button>ABOUT ME</button>
 	<button>HORSE HAIR RAKU</button>
 	<button>NAKED RAKU</button>
