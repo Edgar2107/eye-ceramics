@@ -11,6 +11,10 @@ h2{ text-align: center
   margin-right: auto;
   width: 50%;
 }
+div.b{
+	width: 150px;
+	border: 1px solid black
+}
 p {
 font-weight:bold;
 font-family: Times New Roman
