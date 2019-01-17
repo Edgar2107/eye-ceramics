@@ -12,8 +12,9 @@ h2{ text-align: center
   width: 50%;
 }
 span.Blue2{
-	min-width: 100%;
-	min-height: 100%;
+	height: auto;
+	width: auto;
+		}
 1
 p {
 font-weight:bold;
