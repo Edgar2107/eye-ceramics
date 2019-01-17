@@ -18,7 +18,7 @@ font-family: Times New Roman
 text-align: center;
 }
 div {
-	align-items: center;
+	align-content: center;
 	width: 600px;
 	border: 1px solid black
 }
