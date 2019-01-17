@@ -17,7 +17,10 @@ font-weight:bold;
 font-family: Times New Roman
 text-align: center;
 }
-
+div{
+	width: 150px
+	border: 5px solid black;
+}
 /*
 
 <html>
