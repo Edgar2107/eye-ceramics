@@ -21,7 +21,7 @@
 </h3>
 
  <h4> <img src="Blue2.jpg"
-alt="Blue" class="center" height="100%" width="100%">
+alt="Blue" class="center" height="auto" width="auto">
 </h4>
 
 <div class="content">
