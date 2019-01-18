@@ -23,8 +23,8 @@ h3{ text-align: center
   width: 50%;
 }
 image.Blue2{
-	height: auto;
-	width: auto;
+	min-height: auto;
+	min-width: auto;
 	}
 p {
 font-weight:bold;
