@@ -24,6 +24,11 @@ h3{ text-align: center
   width: 50%;
 }
 
+image.GNR.jpg{
+	min-height: auto;
+	min-width: auto;
+	}
+
 
 
 /*
@@ -59,6 +64,7 @@ alt="GNR" class="center" height="auto" width="auto">
 </h4>
 
 </body> 
+
 <footer>
 <a target="_blank" href="https://www.instagram.com/e.y.e_ceramiiics/">
 	<img src="Insta.png" alt="Insta"
