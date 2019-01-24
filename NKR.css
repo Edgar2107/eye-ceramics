@@ -30,7 +30,8 @@ image.GNR.jpg{
 	}
 
 #footer{
-	position: center;
+	float: center;
+	display: inline-block;
 
 }
 
