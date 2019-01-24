@@ -1,8 +1,10 @@
-.quantity{
-	margin: auto;
-	display: block;
-	
 
+
+.quantity{
+	text-align: center;
+}
+.quantity > input{
+	text-align: left;
 }
 
 /*
