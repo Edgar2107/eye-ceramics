@@ -1,0 +1,216 @@
+/*
+
+
+
+<html>
+<link rel="stylesheet" type="text/css" href="Ceramics21.css" />
+
+<header>
+   <a href="index.html">
+      <h1><a href="index.html">
+      E.Y.E Ceramics</a></h1>
+     
+   </a>
+</header>
+<body>
+	<h2>CART</h2>	
+<h3> 
+
+<input type=button onClick="parent.location='ABOUT.html'" value='ABOUT'>
+
+	<input type=button onClick="parent.location='HHR.html'" value='HORSE HAIR RAKU'>
+
+	<input type=button onClick="parent.location='NKR.html'" value='NAKED RAKU'>
+
+
+	<input type=button onClick="parent.location='SS.html'" value='SODIUM SILICATE'>
+
+	<input type=button onClick="parent.location='CART.html'" value='CART'>
+
+</h3>
+
+
+<div class="CART">
+  <!-- Title -->
+
+
+<main class="container">
+</main>
+
+<div class="checkout-panel">
+  <div class="panel-body">
+    <h2 class="title">Checkout</h2>
+ 
+    <div class="progress-bar">
+      <div class="step active"></div>
+      <div class="step active"></div>
+      <div class="step"></div>
+      <div class="step"></div>
+    </div>
+ 
+    <div class="payment-method">
+      <label for="card" class="method card">
+        <div class="card-logos">
+          <img src="VISA.jpg"/>
+          <img src="MC.jpg"/>
+        </div>
+
+<br>
+  <!-- Product #1 -->
+  <div class="item">
+<br>
+  
+    <div class="description">
+      <span>HORSE HAIR RAKU</span>
+  
+    </div>
+ 
+    <div class="quantity">
+      
+      </button>
+      <input type="text" name="name" value="1">
+   
+      </button>
+    </div>
+ 
+    <div class="total-price">$100</div>
+  </div>
+ 
+  <!-- Product #2 -->
+  <div class="item">
+ 
+    <div class="description">
+      <span>NAKED RAKU</span>
+      
+    </div>
+ 
+    <div class="quantity">
+     
+      </button>
+      <input type="text" name="name" value="1">
+      
+      </button>
+    </div>
+ 
+    <div class="total-price">$100</div>
+  </div>
+ 
+  <!-- Product #3 -->
+  <div class="item">
+
+ 
+    <div class="description">
+      <span>SOUDIUM SILICATE</span>
+      
+    </div>
+ 
+    <div class="quantity">
+     
+      <input type="text" name="name" value="1">
+      
+        
+      </button>
+    </div>
+ 
+    <div class="total-price">$100</div>
+  </div>
+  <br>
+
+
+
+        <br>
+First Name:
+<input type="text" name="f-name">
+ Last Name:
+  <input type="text" name="l-name">
+  <br>
+  <br>
+  Adress 1:
+  <input type="text" name="Adress">
+  Adress 2:
+  <input type="text" name="Adress">
+  <br>
+ <br>
+
+  Country:
+  <input type="text" name="Country">
+  State:
+  <input type="text" name="State">
+ Zip:
+ <input type="text" name="Zip">
+ <br>
+
+
+  <br>
+ 
+        <div class="radio-input">
+          <input id="card" type="radio" name="payment">
+         Pay $100 with card
+        </div>
+        <br>
+
+      </label>
+ 
+     
+    </div>
+ 
+    <div class="input-fields">
+      <div class="column-1">
+        <label for="cardholder">Cardholder's Name</label>
+        <input type="text" id="cardholder" />
+        <br>
+         <br>
+
+         </div>
+      <div class="column-2">
+        <label for="cardnumber">Card Number</label>
+        <input type="password" id="cardnumber"/>
+        <br>
+  <br>
+        <div class="small-inputs">
+          <div>
+            <label for="date">Valid thru</label>
+            <input type="text" id="date" placeholder="MM / YY" />
+          </div>
+           <br>
+ 
+          <div>
+            <label for="verification">CVV / CVC *</label>
+            <input type="password" id="verification"/>
+          </div>
+        </div>
+
+ 
+     
+ 
+        <span class="info">* CVV or CVC is the card security code, unique three digits number on the back of your card separate from its number.</span>
+      </div>
+    </div>
+  </div>
+ 
+
+</body>
+ 
+ <div class="panel-footer">
+<br>
+    
+    <button class="btn next-btn">Next Step</button>
+  </div>
+
+</div>
+
+
+
+
+<footer>
+
+
+<a target="_blank" href="https://www.instagram.com/e.y.e_ceramiiics/">
+	<img src="Insta.png" alt="Insta"
+align="center"></a>
+
+</footer>
+
+</html>		
+
+*/
