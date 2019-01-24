@@ -1,10 +1,13 @@
-.container{
-	position: relative;
-	text-align: center;
 
-
+.checkout-panelP{
+	  width: 500px;
+        align-self: center;
+        -webkit-align-self: center;
 
 }
+
+}
+
 /*
 
 
