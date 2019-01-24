@@ -1,12 +1,15 @@
-.payment-method{
+.MC{
 	 display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-}
 
-
+.VISA{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /*
