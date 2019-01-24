@@ -1,11 +1,10 @@
-html, body {height:100%;}
-html {display:table; width:100%;}
-body {display:table-cell; text-align:center; vertical-align:middle;}
+
 
 /*
 
 
 
+<!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="Ceramics21.css" />
 
@@ -16,7 +15,7 @@ body {display:table-cell; text-align:center; vertical-align:middle;}
      
    </a>
 </header>
-<body>
+
 	<h2>CART</h2>	
 <h3> 
 
@@ -38,25 +37,23 @@ body {display:table-cell; text-align:center; vertical-align:middle;}
   <!-- Title -->
 
 
+
 <main class="container">
 </main>
 
 <div class="checkout-panel">
   <div class="panel-body">
     <h2 class="title">Checkout</h2>
+    <br>
+    <body>
  
-    <div class="progress-bar">
-      <div class="step active"></div>
-      <div class="step active"></div>
-      <div class="step"></div>
-      <div class="step"></div>
-    </div>
+  
  
     <div class="payment-method">
       <label for="card" class="method card">
-        <div class="card-logos">
-          <img src="VISA.jpg"/>
-          <img src="MC.jpg"/>
+        <div class="card-logos" align="center">
+          <img src="VISA.jpg" alt="VISA" align="center" />
+          <img src="MC.jpg" alt="MC" align="center"/>
         </div>
 
 <br>
@@ -64,31 +61,31 @@ body {display:table-cell; text-align:center; vertical-align:middle;}
   <div class="item">
 <br>
   
-    <div class="description">
+    <div class="description"  align="center">
       <span>HORSE HAIR RAKU</span>
   
     </div>
  
-    <div class="quantity">
+    <div class="quantity"  align="center" >
       
       </button>
-      <input type="text" name="name" value="1">
+      <input type="text" name="name" value="1" >
    
       </button>
     </div>
  
-    <div class="total-price">$100</div>
+    <div class="total-price"  align="center" >$100</div>
   </div>
- 
+ <br>
   <!-- Product #2 -->
   <div class="item">
  
-    <div class="description">
+    <div class="description"  align="center" >
       <span>NAKED RAKU</span>
       
     </div>
  
-    <div class="quantity">
+    <div class="quantity"  align="center" >
      
       </button>
       <input type="text" name="name" value="1">
@@ -96,34 +93,38 @@ body {display:table-cell; text-align:center; vertical-align:middle;}
       </button>
     </div>
  
-    <div class="total-price">$100</div>
+    <div class="total-price"  align="center" >$100</div>
   </div>
+
+  <br>
  
   <!-- Product #3 -->
   <div class="item">
 
  
-    <div class="description">
+    <div class="description"  align="center" >
       <span>SOUDIUM SILICATE</span>
       
     </div>
  
-    <div class="quantity">
+    <div class="quantity" align="center"  >
      
-      <input type="text" name="name" value="1">
+      <input type="text" name="name" value="1"  align="right" >
       
         
       </button>
     </div>
  
-    <div class="total-price">$100</div>
+    <div class="total-price"  align="center" >$100</div>
   </div>
   <br>
 
 
 
         <br>
-First Name:
+<body align="center" >
+
+First Name: 
 <input type="text" name="f-name">
  Last Name:
   <input type="text" name="l-name">
@@ -144,6 +145,7 @@ First Name:
  <input type="text" name="Zip">
  <br>
 
+</body>
 
   <br>
  
@@ -193,7 +195,6 @@ First Name:
   </div>
  
 
-</body>
  
  <div class="panel-footer">
 <br>
@@ -203,6 +204,7 @@ First Name:
 
 </div>
 
+</body>
 
 
 
