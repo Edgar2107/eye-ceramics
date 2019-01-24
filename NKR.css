@@ -28,12 +28,10 @@ image.GNR.jpg{
 	min-height: auto;
 	min-width: auto;
 	}
-
-image.Insta.png{
-min-height: auto;
-min-width: auto
+footer{
+	min-width: 22px;
+	min-height: 22px;
 }
-/*
 
 
 <link rel="stylesheet" type="text/css" href="NKR.css" />
