@@ -30,7 +30,8 @@ image.GNR.jpg{
 	}
 
 image.Insta.png{
-	align-content: center;
+min-height: auto;
+min-width: auto;
 }
 /*
 
