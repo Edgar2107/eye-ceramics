@@ -16,7 +16,7 @@
    </a>
 </header>
 
-	<h2>CART</h2>	
+	<h2>CHECK OUT</h2>	
 <h3> 
 
 <input type=button onClick="parent.location='ABOUT.html'" value='ABOUT'>
@@ -28,7 +28,7 @@
 
 	<input type=button onClick="parent.location='SS.html'" value='SODIUM SILICATE'>
 
-	<input type=button onClick="parent.location='CART.html'" value='CART'>
+<input type=button onClick="parent.location='CART.html'" value='BUY NOW'>
 
 </h3>
 
@@ -41,159 +41,35 @@
 <main class="container">
 </main>
 
-<div class="checkout-panel">
-  <div class="panel-body">
-    <h2 class="title">Checkout</h2>
     <br>
+   
+
+
     <body>
  
   
  
-    <div class="payment-method">
-      <label for="card" class="method card">
-        <div class="card-logos" align="center">
-          <img src="VISA.jpg" alt="VISA" align="center" />
-          <img src="MC.jpg" alt="MC" align="center"/>
-        </div>
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppmcvdam.png" alt="Buy now with PayPal" />
 
+ <h6> PAY PAL </h6>
 <br>
-  <!-- Product #1 -->
-  <div class="item">
-<br>
-  
-    <div class="description"  align="center">
-      <span>HORSE HAIR RAKU</span>
-  
-    </div>
- 
-    <div class="quantity"  align="center" >
-      
-      </button>
-      <input type="text" name="name" value="1" >
-   
-      </button>
-    </div>
- 
-    <div class="total-price"  align="center" >$100</div>
-  </div>
- <br>
-  <!-- Product #2 -->
-  <div class="item">
- 
-    <div class="description"  align="center" >
-      <span>NAKED RAKU</span>
-      
-    </div>
- 
-    <div class="quantity"  align="center" >
-     
-      </button>
-      <input type="text" name="name" value="1">
-      
-      </button>
-    </div>
- 
-    <div class="total-price"  align="center" >$100</div>
-  </div>
 
-  <br>
- 
-  <!-- Product #3 -->
-  <div class="item">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="8WPWYCEFTFM9G">
+<table>
+<tr><td><input type="hidden" name="on0" value="Ceramic Forms">Ceramic Forms</td></tr><tr><td><select name="os0">
+	<option value="Horse Hair Raku">Horse Hair Raku $100.00 USD</option>
+	<option value="Naked Raku">Naked Raku $100.00 USD</option>
+	<option value="Sodium Silicate">Sodium Silicate $100.00 USD</option>
+	<option value="Sink">Sink $250.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
- 
-    <div class="description"  align="center" >
-      <span>SOUDIUM SILICATE</span>
-      
-    </div>
- 
-    <div class="quantity" align="center"  >
-     
-      <input type="text" name="name" value="1"  align="right" >
-      
-        
-      </button>
-    </div>
- 
-    <div class="total-price"  align="center" >$100</div>
-  </div>
-  <br>
-
-
-
-        <br>
-<body align="center" >
-
-First Name: 
-<input type="text" name="f-name">
- Last Name:
-  <input type="text" name="l-name">
-  <br>
-  <br>
-  Adress 1:
-  <input type="text" name="Adress">
-  Adress 2:
-  <input type="text" name="Adress">
-  <br>
- <br>
-
-  Country:
-  <input type="text" name="Country">
-  State:
-  <input type="text" name="State">
- Zip:
- <input type="text" name="Zip">
- <br>
-
-</body>
-
-  <br>
- 
-        <div class="radio-input">
-          <input id="card" type="radio" name="payment">
-         Pay $100 with card
-        </div>
-        <br>
-
-      </label>
- 
-     
-    </div>
- 
-    <div class="input-fields">
-      <div class="column-1">
-        <label for="cardholder">Cardholder's Name</label>
-        <input type="text" id="cardholder" />
-        <br>
-         <br>
-
-         </div>
-      <div class="column-2">
-        <label for="cardnumber">Card Number</label>
-        <input type="password" id="cardnumber"/>
-        <br>
-  <br>
-        <div class="small-inputs">
-          <div>
-            <label for="date">Valid thru</label>
-            <input type="text" id="date" placeholder="MM / YY" />
-          </div>
-           <br>
- 
-          <div>
-            <label for="verification">CVV / CVC *</label>
-            <input type="password" id="verification"/>
-          </div>
-        </div>
-
- 
-     
- 
-        <span class="info">* CVV or CVC is the card security code, unique three digits number on the back of your card separate from its number.</span>
-      </div>
-    </div>
-  </div>
- 
 
  
  <div class="panel-footer">
