@@ -1,7 +1,7 @@
 
 /*
 
-<!DOCTYPE html>
+
 <html>
 <link rel="stylesheet" type="text/css" href="Ceramics21.css" />
 
@@ -13,64 +13,37 @@
    </a>
 </header>
 
-	<h2>CHECK OUT</h2>	
+  <h2>CHECK OUT</h2>  
 <h3> 
 
 <input type=button onClick="parent.location='ABOUT.html'" value='ABOUT'>
 
-	<input type=button onClick="parent.location='HHR.html'" value='HORSE HAIR RAKU'>
+  <input type=button onClick="parent.location='HHR.html'" value='HORSE HAIR RAKU'>
 
-	<input type=button onClick="parent.location='NKR.html'" value='NAKED RAKU'>
+  <input type=button onClick="parent.location='NKR.html'" value='NAKED RAKU'>
 
 
-	<input type=button onClick="parent.location='SS.html'" value='SODIUM SILICATE'>
+  <input type=button onClick="parent.location='SS.html'" value='SODIUM SILICATE'>
 
 <input type=button onClick="parent.location='CART.html'" value='BUY NOW'>
 
 </h3>
 
+<br>
 
-<div class="CART">
+
+
+
+
+
+<div class="SHIPPING">
   <!-- Title -->
 
-
-
-<main class="container">
-</main>
-
-    <br>
-   
-
-
-    <body>
- 
- <h4> SHIPPING INFO</h4>
 <body align="center" >
 
-First Name: 
-<input type="text" name="f-name">
- Last Name:
-  <input type="text" name="l-name">
-  <br>
-  <br>
-  E-mail:
-  <input type="text" name="E-mail">
-  Adress 1:
-  <input type="text" name="Adress">
-  Adress 2:
-  <input type="text" name="Adress">
-  <br>
- <br>
-
-  Country:
-  <input type="text" name="Country">
-  State:
-  <input type="text" name="State">
- Zip:
- <input type="text" name="Zip">
- <br>
 
 
+ 
 
   <br>
 
@@ -78,25 +51,36 @@ First Name:
     <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppmcvdam.png" alt="Buy now with PayPal" />
 
 <h5 align="center"> PAY PAL </h5> 
-
+<h6 > Items will be shipped via UPS Ground. Allow 2-7 buisness days for package to arrive.</h6>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="8WPWYCEFTFM9G">
-<table align="center" >
+<input type="hidden" name="hosted_button_id" value="PKAAAFGADZ3HL">
+<table align="center">
 <tr><td><input type="hidden" name="on0" value="Ceramic Forms">Ceramic Forms</td></tr><tr><td><select name="os0">
-	<option value="Horse Hair Raku">Horse Hair Raku $100.00 USD</option>
-	<option value="Naked Raku">Naked Raku $100.00 USD</option>
-	<option value="Sodium Silicate">Sodium Silicate $100.00 USD</option>
-	<option value="Sink">Sink $250.00 USD</option>
+  <option value="Single Horse Hair Raku">Single Horse Hair Raku $80.00 USD</option>
+  <option value="Single Naked Raku">Single Naked Raku $80.00 USD</option>
+  <option value="Single Sodium Silicate">Single Sodium Silicate $80.00 USD</option>
+  <option value="Duo Horse Hair Raku">Duo Horse Hair Raku $140.00 USD</option>
+  <option value="Duo Naked Raku">Duo Naked Raku $140.00 USD</option>
+  <option value="Duo Sodium Silicate">Duo Sodium Silicate $140.00 USD</option>
+  <option value="Sink">Sink $200.00 USD</option>
 </select> </td></tr>
 </table>
-<br>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+<br>
+<input type="hidden" name="currency_code" value="USD">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
 </body>
+
+
+
 <br>
 
 
@@ -106,11 +90,11 @@ First Name:
 
 
 <a target="_blank" href="https://www.instagram.com/e.y.e_ceramiiics/">
-	<img src="Insta.png" alt="Insta"
+  <img src="Insta.png" alt="Insta"
 align="center"></a>
 
 </footer>
 
-</html>			
+</html>   
 
 */
