@@ -17,7 +17,7 @@
 	<button>HORSE HAIR RAKU</button>
 	<button>NAKED RAKU</button>
 	<button>SODIUM SILICATE</button>
-	<button>CART</button>
+	<button>SINK</button>
 </h3>
 
  <h4> <img src="Blue2.jpg"
