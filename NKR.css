@@ -15,6 +15,7 @@ h2{
 
 	
 }
+
 h3{ text-align: center 
 }
 .center {
@@ -23,10 +24,12 @@ h3{ text-align: center
   margin-right: auto;
   width: 50%;
 }
+
 image.GNR{
 	min-height: auto;
 	min-width: auto;
 	}
+
 p {
 font-weight:bold;
 font-family: Times New Roman;
