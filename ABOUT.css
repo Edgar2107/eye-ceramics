@@ -6,8 +6,9 @@ a:-webkit-any-link {
    color: #FFFFFF;
     cursor: pointer;
     text-decoration: underline;
-    color: black;
+
     text-shadow:
+    color: black;
     -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
