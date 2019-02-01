@@ -54,6 +54,9 @@ input[type=button]{
 	color: #cc3300;
 	background: transparent;
 	border: none;
+	text-decoration-style: bold;
+	font-family: Times New Roman;
+	
 
 }
 
