@@ -3,7 +3,7 @@
 
 a:-webkit-any-link {
 
-   color: #cc3300;
+ 
     cursor: pointer;
     text-decoration: underline;
 }
@@ -14,7 +14,7 @@ a:-webkit-any-link {
 
 
 header{
-	color: #cc3300;
+	
 	text-align: center;
 	font-family: Times New Roman;
 	font-size: 20px;
@@ -24,7 +24,7 @@ header{
 
 }
 h2{
-	color: #cc3300;
+	
 	text-align: center;
 	font-family: Times New Roman;
 	font-size: 35px;
@@ -68,7 +68,7 @@ input[type=text]{
 
 }
 input[type=button]{
-	color: #cc3300;
+	
 	background: transparent;
 	border: none;
 	font-weight: 900;
@@ -81,7 +81,7 @@ input[type=button]{
 
 
 input[type=submit]{
-	color: #cc3300;
+	
 	background: transparent;
 	border: none;
 	font-weight: 900;
