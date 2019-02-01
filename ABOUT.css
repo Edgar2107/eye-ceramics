@@ -6,7 +6,7 @@ a:-webkit-any-link {
    color: #FFFFFF;
     cursor: pointer;
     text-decoration: underline;
-    outline-color: #000000;
+    outline-color: #0000;
 }
 
 
