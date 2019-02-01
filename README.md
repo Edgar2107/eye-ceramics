@@ -41,6 +41,9 @@ alt="Blue2" class="center" height="auto" width="auto">
 	<img src="Insta.png" alt="Insta"
 align="center"></a>
 
+<br>
+ <small>&copy; Copyright 2019, E.Y.E Ceramics LLC, All Rights Reserved </small>
+
 </footer>
 
 </html>			
