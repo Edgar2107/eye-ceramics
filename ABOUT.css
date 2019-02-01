@@ -78,6 +78,14 @@ input[type=button]{
 }
 
 
+input[type=submit]{
+	color: #cc3300;
+	background: transparent;
+	border: none;
+	font-weight: 900;
+	font-family: Times New Roman;
+}
+
 
 /*
 
