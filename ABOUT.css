@@ -3,7 +3,7 @@
 
 a:-webkit-any-link {
 
- 
+   color: #FFFFFF;
     cursor: pointer;
     text-decoration: underline;
 }
@@ -14,7 +14,7 @@ a:-webkit-any-link {
 
 
 header{
-	
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Times New Roman;
 	font-size: 20px;
@@ -24,7 +24,7 @@ header{
 
 }
 h2{
-	
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Times New Roman;
 	font-size: 35px;
@@ -41,6 +41,7 @@ h3{ text-align: center
   width: 50%;
 }
 p{
+	color: #FFFFFF;
 	font-weight:bold;
 font-family: Times New Roman;
 text-align: center;
@@ -68,7 +69,7 @@ input[type=text]{
 
 }
 input[type=button]{
-	
+	color: #FFFFFF;
 	background: transparent;
 	border: none;
 	font-weight: 900;
@@ -81,7 +82,7 @@ input[type=button]{
 
 
 input[type=submit]{
-	
+	color: #FFFFFF;
 	background: transparent;
 	border: none;
 	font-weight: 900;
