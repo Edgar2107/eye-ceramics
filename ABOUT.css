@@ -35,11 +35,11 @@ text-align: center;
 }
 
 
-.Message{
+textarea{
 	max-width: 500px;
 	max-height: 100px;
 	font-size: 17px;
-	
+
 }
 
 
