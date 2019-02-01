@@ -13,7 +13,7 @@
 <body>
 	<h2>Raku & Low Fire Ceramics</h2>	
 <h3> 
-<button>ABOUT</button>
+<button>ABOUT & CONTACT</button>
 	<button>HORSE HAIR RAKU</button>
 	<button>NAKED RAKU</button>
 	<button>SODIUM SILICATE</button>
