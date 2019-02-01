@@ -74,7 +74,7 @@ input[type=button]{
 	font-weight: 900;
 	font-family: Times New Roman;
 	font-size: 20px;
-	
+
 
 
 }
@@ -90,6 +90,11 @@ input[type=submit]{
 
 }
 
+body{
+	background-image: url("sand2.jpg");
+
+
+}
 
 /*
 
