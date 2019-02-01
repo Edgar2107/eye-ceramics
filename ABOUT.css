@@ -50,6 +50,12 @@ input[type=text]{
 
 
 }
+input[type=button]{
+	color: #cc3300;
+	background: transparent;
+	border: none;
+
+}
 
 
 
