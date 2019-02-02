@@ -13,6 +13,7 @@ a:-webkit-any-link {
     text-decoration: underline;
     outline-color: #0000;
     align-content: center;
+    font-weight: bold;
 
 }
 
@@ -107,6 +108,7 @@ body{
 	background-color: black;
 
 }
+
 
 
 
