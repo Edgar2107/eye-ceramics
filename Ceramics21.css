@@ -41,6 +41,8 @@ h2{
 }
 h3{ text-align: center 
 }
+
+
 .center {
   display: block;
   margin-left: auto;
@@ -103,7 +105,13 @@ input[type=submit]{
 body{
 	background-color: black;
 
-}/*
+}
+.image{
+	align-content: center;
+}
+
+
+/*
 
 <html>
 <link rel="stylesheet" type="text/css" href="Ceramics21.css" />
