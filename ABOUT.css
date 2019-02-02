@@ -76,6 +76,7 @@ input[type=button]{
 	font-weight: 900;
 	font-family: Times New Roman;
 	font-size: 20px;
+	cursor: pointer;
 
 
 
@@ -89,15 +90,11 @@ input[type=submit]{
 	font-weight: 900;
 	font-family: Times New Roman;
 	font-size: 20px;
-
+	cursor: pointer;
 }
 
 body{
 	background-color: black;
-	
-	
-
-
 
 }
 
