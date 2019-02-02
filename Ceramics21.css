@@ -108,6 +108,17 @@ body{
 	background-color: black;
 
 }
+small{
+	color: #FFFFFF;
+	background: transparent;
+	border: none;
+	font-weight: 900;
+	font-family: Times New Roman;
+	font-size: 20px;
+	cursor: pointer;
+	align-content: center;
+
+}
 
 
 
