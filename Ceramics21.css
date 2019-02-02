@@ -12,8 +12,8 @@ a:-webkit-any-link {
     cursor: pointer;
     text-decoration: underline;
     outline-color: #0000;
-    align-content: right;
-    
+    align-content: center;
+
 }
 
 
