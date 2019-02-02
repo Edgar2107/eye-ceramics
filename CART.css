@@ -37,15 +37,15 @@ h2{
 
   
 }
-h3{ text-align: center 
+h3{ 
+  text-transform: uppercase;
+  text-align: center; 
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  text-transform: uppercase;
-  
 }
 p{
   color: #FFFFFF;
@@ -102,8 +102,6 @@ body{
   background-color: black;
 
 }
-
-
 /*
 
 
