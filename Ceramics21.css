@@ -11,7 +11,8 @@ a:-webkit-any-link {
    color: #FFFFFF;
     cursor: pointer;
     text-decoration: underline;
-    outline-color: #0000
+    outline-color: #0000;
+    align-content: center;
 }
 
 
@@ -96,6 +97,7 @@ input[type=submit]{
 	font-family: Times New Roman;
 	font-size: 20px;
 	cursor: pointer;
+	align-content: center;
 }
 
 body{
