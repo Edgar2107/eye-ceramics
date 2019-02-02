@@ -106,7 +106,7 @@ body{
 	background-color: black;
 
 }
-.image{
+.image[type=Insta.png]{
 	align-content: center;
 }
 
