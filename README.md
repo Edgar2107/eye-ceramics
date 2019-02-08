@@ -34,7 +34,7 @@
 
 </h3>
 
- <h4> <img src="Blue2.jpg"</h4>
+ <h4> <img src="blue2.jpg"</h4>
 
 
 
