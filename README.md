@@ -1,7 +1,7 @@
 <html>
 <title></title>
 
-<link rel="stylesheet" type="text/css" href="Ceramics21.css" />
+<link rel="stylesheet" type="text/css" href="ceramics21.css" />
 
 <header>
    <a href="index.html">
@@ -12,7 +12,6 @@
 </header>
 <body>
 	<h2>Raku & Low Fire Ceramics</h2>	
-
 
 
 <h3>
@@ -35,9 +34,13 @@
 
 </h3>
 
- <h4> <img src="Blue2.jpg"
+ <h4> <img src="Blue2.jpg"</h4>
+
+
+
+<h5> <img src="blue2.jpg"
 alt="Blue2" class="center" height="auto" width="auto">
-</h4>
+</h5>
 
 <div class="content">
 <p>Raku ware is an alternative method of a low fire technique that originated in Japan. My custom ceramic pieces have been glazed and fired to a cone 04 bisque temperature. I am currently working w/ naked raku, horse hair raku, sodium silicate resin texture and glazed raku firings. These ceramic pots are capable of holding liquid, but NOT recommended for consumable liquids and food. These pieces are fired in a propane or natural gas fueled kiln, that has been exposed to lead based glazes. Lead can be toxic for human consumption and cause serious health issues, possibly death if used for serving food and water. This method of firing is used for HOME DECOR ONLY. </p>
