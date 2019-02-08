@@ -12,12 +12,27 @@
 </header>
 <body>
 	<h2>Raku & Low Fire Ceramics</h2>	
-<h3> 
-<button>ABOUT & CONTACT</button>
-	<button>HORSE HAIR RAKU</button>
-	<button>NAKED RAKU</button>
-	<button>SODIUM SILICATE</button>
-	<button> CERAMIC SINK</button>
+
+
+
+<h3>
+	<ul>
+		<input type=button onClick="parent.location='about.html'" value='ABOUT & CONTACT'>
+		<input type=button onClick="parent.location='hhr.html'" value='HORSE HAIR RAKU'>
+		<input type=button onClick="parent.location='nkr.html'" value='NAKED RAKU'>
+		<input type=button onClick="parent.location='ss.html'" value='SODIUM SILICATE'>
+		<input type=button onClick="parent.location='cart.html'" value='CERAMIC SINK'>
+		
+	
+
+
+
+
+
+
+
+
+
 </h3>
 
  <h4> <img src="Blue2.jpg"
