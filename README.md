@@ -12,7 +12,7 @@
 </header>
 <body>
 	<h2>Raku & Low Fire Ceramics</h2>	
-<h3>
+
 	<ul>
 		<div>
 			
@@ -29,7 +29,7 @@
 	</ul>
 
 	</div>
-</h3>
+
 
  <h4> <img src="blue2.jpg"
 alt="Blue2" class="center" height="auto" width="auto">
