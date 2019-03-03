@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+a:-webkit-any-link {
+
+   color: #FFFFFF;
+    cursor: pointer;
+    text-decoration: underline;
+    outline-color: #0000;
+    align-content: center;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+
+
+
+
+
+header{
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 20px;
+	font-weight: bold;
+	
+
+
+}
+h2{
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 35px;
+
+
+	
+}
+h3{ text-align: center 
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
+}
+p{
+	color: #FFFFFF;
+	font-weight:bold;
+font-family: Times New Roman;
+text-align: center;
+	margin: 0 auto;
+	padding: 0 20px;
+	max-width: 900px;
+	border: 3px solid black;
+	font-size: 20px
+}
+
+
+textarea{
+	max-width: 500px;
+	max-height: 100px;
+	font-size: 17px;
+
+}
+
+
+input[type=text]{
+	max-width: 500px;
+	max-height: 100px;
+	font-size: 17px;
+
+
+}
+input[type=button]{
+	color: #FFFFFF;
+	background: transparent;
+	border: none;
+	font-weight: 900;
+	font-family: Times New Roman;
+	font-size: 20px;
+	cursor: pointer;
+
+
+
+}
+
+
+input[type=submit]{
+	color: #FFFFFF;
+	background: transparent;
+	border: none;
+	font-weight: 900;
+	font-family: Times New Roman;
+	font-size: 20px;
+	cursor: pointer;
+	align-content: center;
+}
+
+body{
+	background-color: black;
+
+}
+small{
+	color: #FFFFFF;
+	background: transparent;
+	border: none;
+	font-weight: 900;
+	font-family: Times New Roman;
+	font-size: 20px;
+	align-content: center;
+
+}
+
+.hhblg{
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+  border: 20px solid 	#00FF7F;
+
+}
+
+.hhbdg{
+	  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+  border: 20px solid #00FF7F;
+
+}
+
+
+
+
+/*
+
+<html>
+<link rel="stylesheet" type="text/css" href="Ceramics21.css" />
+
+<header>
+   <a href="index.html">
+      <h1><a href="index.html">
+      E.Y.E Ceramics</a></h1>
+     
+   </a>
+</header>
+<body>
+	<h2>Raku & Low Fire Ceramics</h2>	
+<h3> 
+
+<input type=button onClick="parent.location='ABOUT.html'" value='ABOUT'>
+
+	<input type=button onClick="parent.location='HHR.html'" value='HORSE HAIR RAKU'>
+
+	<input type=button onClick="parent.location='NKR.html'" value='NAKED RAKU'>
+
+
+	<input type=button onClick="parent.location='SS.html'" value='SODIUM SILICATE'>
+	
+<input type=button onClick="parent.location='CART.html'" value='CART'>
+
+</h3>
+
+ <h4> <img src="Blue2.jpg"
+alt="Blue2" class="center" height="auto" width="auto">
+</h4>
+
+<div class="content">
+<p>Raku ware is an alternative method of a low fire technique that originated in Japan. My custom ceramic pieces have been glazed and fired to a cone 04 bisque temperature. I am currently working w/ naked raku, horse hair raku, sodium silicate resin texture and glazed raku firings. These ceramic pots are capable of holding liquid, but NOT recommended for consumable liquids and food. These pieces are fired in a propane or natural gas fueled kiln, that has been exposed to lead based glazes. Lead can be toxic for human consumption and cause serious health issues, possibly death if used for serving food and water. This method of firing is used for HOME DECOR ONLY. </p>
+</body>
+ 
+<footer>
+
+
+<a target="_blank" href="https://www.instagram.com/e.y.e_ceramiiics/">
+	<img src="Insta.png" alt="Insta"
+align="center"></a>
+
+</footer>
+
+</html>		
+</html>				
+*/
