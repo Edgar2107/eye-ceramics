@@ -29,7 +29,7 @@ header{
 	font-family: Times New Roman;
 	font-size: 20px;
 	font-weight: bold;
-
+	
 
 
 }
@@ -51,6 +51,8 @@ h3{ text-align: center
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+
+
 }
 p{
 	color: #FFFFFF;
@@ -117,6 +119,26 @@ small{
 	font-family: Times New Roman;
 	font-size: 20px;
 	align-content: center;
+
+}
+
+.hhblg{
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+  border: 20px solid 	#00FF7F;
+
+}
+
+.hhbdg{
+	  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+  border: 20px solid #00FF7F;
 
 }
 
