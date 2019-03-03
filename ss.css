@@ -1,0 +1,114 @@
+header{
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 20px;
+	font-weight: bold;
+
+
+
+}
+h2{
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 35px;
+
+	
+}
+h3{ text-align: center 
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+image.SS{
+	min-height: auto;
+	min-width: auto;
+	}
+p {
+font-weight:bold;
+font-family: Times New Roman;
+text-align: center;
+	margin: 0 auto;
+	padding: 0 20px;
+	max-width: 900px;
+	border: 3px solid black;
+	font-size: 20px
+}
+footer{
+	text-align: center;
+}
+
+
+image.ss.jpg{
+	min-height: auto;
+	min-width: auto;
+	}
+
+/*
+
+<link rel="stylesheet" type="text/css" href="Ceramics21.css" />
+
+<header>
+   <a href="index.html">
+      <h1><a href="index.html">
+      E.Y.E Ceramics</a></h1>
+     
+   </a>
+</header>
+
+	<h2>SODIUM SILICATE</h2>	
+<h3> 
+
+<input type=button onClick="parent.location='ABOUT.html'" value='ABOUT'>
+
+	<input type=button onClick="parent.location='HHR.html'" value='HORSE HAIR RAKU'>
+
+	<input type=button onClick="parent.location='NKR.html'" value='NAKED RAKU'>
+
+	<input type=button onClick="parent.location='SS.html'" value='SODIUM SILICATE'>
+
+	<input type=button onClick="parent.location='CART.html'" value='BUY NOW'>
+</h3>
+
+ <h4> <img src="SS.jpg"
+alt="SS" class="center" height="auto" width="auto">
+</h4>
+
+<body>
+	
+	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="LMW3KRCL9A27U">
+<table  align="center" >
+<tr><td><input type="hidden" name="on0" value="Sodium Silicate">Sodium Silicate</td></tr><tr><td><select name="os0">
+	<option value="Single Sodium Silicate Vase">Single Sodium Silicate Vase $80.00 USD</option>
+	<option value="Pair of Sodium Silicate Vases">Pair of Sodium Silicate Vases $140.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+</body>
+	
+
+
+
+
+<footer>
+
+
+<a target="_blank" href="https://www.instagram.com/e.y.e_ceramiiics/">
+	<img src="Insta.png" alt="Insta"
+align="center"></a>
+
+</footer>
+
+</html>
+
+
+*/ 

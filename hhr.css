@@ -1,0 +1,217 @@
+header{
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 20px;
+	font-weight: bold;
+
+
+
+}
+h2{
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 35px;
+
+	
+}
+h3{ text-align: center 
+}
+
+.center {
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 25px;
+
+
+
+}
+
+image.HH.jpg{
+	min-height: auto;
+	min-width: auto;
+
+	}
+
+
+.hhblg{
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+  border: 5px solid 	#00FF7F;
+
+}
+
+.hhbdg{
+	  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+  border: 5px solid #00FF7F;
+
+}
+
+
+
+/*
+
+<html>
+	<a name="top"></a>
+<head>
+	<title> HORSE HAIR RAKU </title>
+
+	<h1><link rel="stylesheet" type="text/css" href="ceramics21.css" />
+	<header>
+   <a href="index.html">
+      <h1><a href="index.html">
+      E.Y.E Ceramics LLC</a></h1>
+     </a>
+</head>
+
+<h2> HORSE HAIR RAKU</h2>
+
+<h3>
+	<ul>
+		<div>
+			
+		<input type=button onClick="parent.location='about.html'" value='ABOUT & CONTACT'>
+
+		<input type=button onClick="parent.location='hhr.html'" value='HORSE HAIR RAKU'>
+
+		<input type=button onClick="parent.location='nkr.html'" value='NAKED RAKU'>
+
+		
+		<input type=button onClick="parent.location='ss.html'" value='SODIUM SILICATE'>
+
+		<input type=button onClick="parent.location='cart.html'" value='CERAMIC SINK'>
+
+	</ul>
+
+	</div>
+</h3>
+
+
+
+
+ <img src="hhblg2.jpg"
+	alt="hhblg" class="hhblg" height="auto" width="auto">
+	<br>
+	<br>
+	Final Check Out Price Includes Tax!
+	<br>
+<p>
+	
+</p>
+<br>
+
+	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="LZB3JNHJKCYYS">
+<table align="center">
+<tr><td><input type="hidden" name="on0" value="Light Grey Horse Hair Bottle">Light Grey Horse Hair Bottle</td></tr><tr><td><select name="os0">
+	<option value="Local UT Purchase">Local UT Purchase $60.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<br>
+
+
+
+
+
+<img src="hhbdg2.jpg"
+	alt="hhbdg" class="hhbdg" height="auto" width="auto">
+	
+	<br>
+	<br>
+	<p>
+		Final Check Out Price Includes Tax!
+	</p>
+
+<br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="N4YTZRU7ZMWWJ">
+<table   align="center" >
+<tr><td><input type="hidden" name="on0" value="Dark Grey Horse Hair Bottle">Dark Grey Horse Hair Bottle</td></tr><tr><td><select name="os0">
+	<option value="Local UT Purchase">Local UT Purchase $60.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+<br>
+<br>
+
+
+</body>
+
+ 
+		<P>HORSE HAIR RAKU CERAMICS IS ONLY FOR HOME DECOR</P> 
+		<br>
+		<P>NOT TO BE USED AS FUNCTIONAL WARE TO SERVE FOOD OR WATER</P>
+		<br>
+	<p>
+	By selecting the item you deisre purchasing on the "Drop Down Table" beneath the "Horse Hair Raku" title and clicking the "Buy Now"button, you will be redirected to my ceramics Pay Pal account.
+	<br>
+	<br>
+	 Once you have entered this page, you can access your Pay Pal account for payment options or continue as a guest and check out with any major credit card or debit card. Complete all billing and shipping info listed to finalize your purchase. Shortly after you've completed checking out, you will recieve a confirmation e-mail of your purchase.
+     <br> 
+     <br>
+     Items will ship with in 24-48 hours of purchase. An e-mail will be sent out once your item is has been shipped to your specified destination. Please allow 2-7 buisness days for items arrival.
+     <br>
+     <br>
+      Thank you for your patience and support. 
+</p>
+
+<br>
+
+<p>
+	You can mail some strands of hair from your steeds  tail in an envelope for a
+	<br>
+	 "Custom Ceramic Horse Hair Raku Vase".
+	<br>
+	<br>
+	Contact me through e-mail to request my studios mailing address. 
+</p>
+  <br>
+
+<br>
+  <p>
+ E-Mail Contact:
+ eye.ceramics2019@gmail.com
+</p>
+
+<br>
+ <form method="post" action="mailto:eye.ceramics2019@gmail.com" >
+<input type="submit" value="Send Email" /> 
+</form>
+<br>
+
+<br>
+
+<footer>
+
+	<a target="_blank" href="https://www.instagram.com/e.y.e_ceramiiics/">
+	<img src="Insta.png" alt="Insta"
+align="center"></a>
+<br>
+<br>
+	<a href="#top">Back To Top</a>
+<br>
+<br>
+ <small>&copy; Copyright 2019, E.Y.E Ceramics LLC, All Rights Reserved </small>
+
+</footer>
+</html>
+*/
